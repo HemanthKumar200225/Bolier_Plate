@@ -58,4 +58,4 @@ That's it the folder structure will be created with default code in each file!
 # After running the command
 ![image](https://user-images.githubusercontent.com/82143624/123902547-a7458f00-d98a-11eb-8cb6-4545a3e09c0b.png)
 
-Done!
+now you can open that folder and work!
