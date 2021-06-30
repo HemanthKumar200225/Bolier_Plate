@@ -48,7 +48,7 @@ Go to the folder or drive where you need to create project and enter this comman
 
 ```
 
-$creatfolder 'your-project-name'
+$creatproject 'your-project-name'
 
 ```
 That's it the folder structure will be created with default code in each file!
